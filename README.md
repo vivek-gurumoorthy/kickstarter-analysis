@@ -10,7 +10,7 @@
 ![Outcomes Based on Launch Date](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals]([/Users/vivekgurumoorthy/Desktop/Analysis Projects/resources/Outcomes_vs_Goals.png](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png))
+![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
