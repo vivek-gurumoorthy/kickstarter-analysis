@@ -17,6 +17,7 @@ The data used in this analysis consists of thousands of crowdfunding projects of
 ![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+- Analysis of Outcomes Based on Goals - Constructing the COUNTIFS statement to tally the number of projects that were either successful, failed, or cancelled based on crowdfunding goal proved to be challenging at first because of just how many criteria were required for each statement. Each had to individually evaluate either one or two numeric conditions and an outcome condition, and therefore this was difficult to syntactically approach initially. 
 
 ## Results
 
