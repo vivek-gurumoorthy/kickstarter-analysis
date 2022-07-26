@@ -25,7 +25,9 @@ The data used in this analysis consists of thousands of crowdfunding projects of
    2) Contrarily, in winter months such as December, January, and February, the number of successful campaigns is significanty reduced and a much larger proportion of failed theater outcomes appears, suggesting that winter months may be less than optimal for these crowdfunding efforts. 
 
 - What can you conclude about the Outcomes based on Goals?
+   As crowdfunding goals of campaigns become more and more ambitious, the success rate of these campaigns also drops off significantly. This can be seen in the steady decline of the line representing successful campaigns and the ascension of the line representing failed campaigns.
 
 - What are some limitations of this dataset?
+  This dataset does not have any data that can be used in the analysis to control for the genre of a play. Certain genres may be inherently either more or less likely to be funded successfully. Additionally, while having data on other countries may provide a more comprehensive view of the global dynamics of crowdfunding theater campaigns, having more data within one country of interest and being able to see how success of these campaigns can vary based on location within a country of interest would perhaps be more analytically applicable.  
 
 - What are some other possible tables and/or graphs that we could create?
