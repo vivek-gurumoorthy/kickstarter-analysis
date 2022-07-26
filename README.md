@@ -16,7 +16,7 @@ The data used in this analysis consists of thousands of crowdfunding projects of
 
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Screen%20Shot%202022-07-26%20at%201.01.14%20PM.png)
 ![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
