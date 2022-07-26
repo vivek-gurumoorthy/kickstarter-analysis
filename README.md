@@ -3,6 +3,10 @@
 ## Overview of Project
 
 ### Purpose
+This analysis is intended to inform Louise's approach to crowdfunding so that her play, "Fever", can be funded and performed successfully.
+
+### Background
+The data used in this analysis consists of thousands of crowdfunding project of varying countries, launch dates, fundraising goals, and ultimate levels of success.
 
 ## Analysis and Challenges
 
