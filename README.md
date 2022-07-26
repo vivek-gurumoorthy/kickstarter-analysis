@@ -17,6 +17,7 @@ The data used in this analysis consists of thousands of crowdfunding projects of
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/vivek-gurumoorthy/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 - Analysis of Outcomes Based on Launch Date - Before creating the pivot table required for this analysis, I did not filter out the projects with the outcome labeled as "live". For this reason, I kept noticing a different number of total projects in the analysis from what the example output showed in the instructions. Only after carefully examining all of the columns of the pivot table was I able to determine why my total numbers were not matching and then that made creating the associated graphic significantly easier.
