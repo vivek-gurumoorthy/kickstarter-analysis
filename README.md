@@ -31,3 +31,6 @@ The data used in this analysis consists of thousands of crowdfunding projects of
   - This dataset does not have any data that can be used in the analysis to control for the genre of a play. Certain genres may be inherently either more or less likely to be funded successfully. Additionally, while having data on other countries may provide a more comprehensive view of the global dynamics of crowdfunding theater campaigns, having more data within one country of interest and being able to see how success of these campaigns can vary based on location within a country of interest would perhaps be more analytically applicable.  
 
 - What are some other possible tables and/or graphs that we could create?
+  - Another graph that could be created could be time to success for successful campaigns, which could be ascertained by comparing the "Date Created Conversion" to the "Date Ended Conversion".
+  - Building on the idea of comparing these started and ended dates, how long successful campaigns took to reach their associated goals could also be compared against the fundraising goals that were established at the beginning of the project. 
+  - Within the theater parent category, plays could be compared against musicals and their associated successes based on goal and date of creation viewed side-by-side.
