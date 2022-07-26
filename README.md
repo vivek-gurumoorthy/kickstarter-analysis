@@ -21,6 +21,8 @@ The data used in this analysis consists of thousands of crowdfunding projects of
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+- 1) In the months of May, June, and July, the number of successful theater outcomes skyrockets, indicating that theater crowdfunding may be most successful in the late spring and early Summer. 
+- 2) Contrarily, in winter months such as December, January, and February, the number of successful campaigns is significanty reduced and a much larger proportion of failed theater outcomes appears, suggesting that winter months may be less than optimal for these crowdfunding efforts. 
 
 - What can you conclude about the Outcomes based on Goals?
 
